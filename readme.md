@@ -1,6 +1,6 @@
 """
 ================================================================================
- FPL AGENT + CHIP SCHEDULER  -  Setup & Usage (2025/26)
+ FPL AGENT + CHIP SCHEDULER  -  Setup & Usage (2026/27)
 ================================================================================
 This README is provided as a .py file for easy download. It contains no code to
 run (though `python README_fpl.py` will simply print these instructions).
